@@ -1,0 +1,23 @@
+{
+	"pcgames":[
+		{
+			"gameName":"dota2"
+		},
+		
+		{
+			"gameName":"cs"	
+		},
+		
+		{
+			"gameName":"gta"
+		},
+		
+		{
+			"gameName":"nfs"
+		},
+		
+		{
+			"gameName":"fifa20"
+		}
+		]
+}
